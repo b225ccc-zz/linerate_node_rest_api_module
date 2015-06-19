@@ -1,0 +1,12 @@
+{
+  "strict": true,
+  "node": true,
+  "curly": true,
+  "eqeqeq": true,
+  "forin": true,
+  "indent": 5,
+  "quotmark": "single",
+  "unused": true,
+  "maxlen": 80,
+  "sub": true
+}
