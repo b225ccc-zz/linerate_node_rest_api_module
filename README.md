@@ -1,1 +1,1 @@
-# linerate_node_rest_api_module
+# LineRate Node.js REST API Module

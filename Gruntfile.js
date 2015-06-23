@@ -32,7 +32,8 @@ module.exports = function(grunt) {
             target: 'docs',
             options: {
               title: 'LineRate Node.js REST API module',
-              template: 'doxx.jade'
+              template: 'doxx.jade',
+              readme: 'README.md'
             }
           }
         }
