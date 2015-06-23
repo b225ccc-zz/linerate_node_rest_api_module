@@ -1,0 +1,36 @@
+{
+  "name": "linerate_node_rest_api_module",
+  "version": "0.0.1",
+  "description": "LineRate Node.js API interface",
+  "author": "Brian Talley <talley@f5.com>",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/b225ccc/linerate_node_rest_api_module.git"
+  },
+  "keywords": [
+    "linerate",
+    "node",
+    "node.js",
+    "load balancer",
+    "reverse proxy",
+    "http",
+    "f5",
+    "point",
+    "precision"
+  ],
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.8.1",
+    "request": "^2.57.0"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.11.2",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-doxx": "^0.1.2",
+    "grunt-tape": "0.0.2",
+    "tape": "^4.0.0"
+  }
+}
