@@ -19,10 +19,8 @@
     "point",
     "precision"
   ],
-  "private": true,
   "license": "MIT",
   "dependencies": {
-    "commander": "^2.8.1",
     "request": "^2.57.0"
   },
   "devDependencies": {
