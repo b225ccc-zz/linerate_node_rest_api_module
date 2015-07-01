@@ -44,7 +44,8 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('grunt-doxx');
     grunt.loadNpmTasks('grunt-tape');
 
-    grunt.registerTask('test', ['jshint', 'tape']);
+    grunt.registerTask('test', ['tape']);
+    grunt.registerTask('jshint', ['jshint']);
     grunt.registerTask('default', ['jshint', 'tape', 'doxx']);
 
 };
