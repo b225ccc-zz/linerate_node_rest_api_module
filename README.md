@@ -48,6 +48,7 @@ linerate.connect({
 * get_activation_mode()
 * set_activation_mode()
 * install_license()
+* create_user()
 
 ---
 
