@@ -41,6 +41,8 @@ linerate.connect({
 * set_hostname()
 * backup_list()
 * backup_home()
+* backup_full()
+* backup()
 * util_delete()
 * write_mem()
 * get_regkey()
@@ -49,6 +51,9 @@ linerate.connect({
 * set_activation_mode()
 * install_license()
 * create_user()
+* change_password()
+* get_real()
+* get_reals()
 
 ---
 
