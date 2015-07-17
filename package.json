@@ -1,6 +1,6 @@
 {
   "name": "linerate_node_rest_api_module",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "LineRate Node.js API interface",
   "author": "Brian Talley <talley@f5.com>",
   "main": "lib/index.js",
