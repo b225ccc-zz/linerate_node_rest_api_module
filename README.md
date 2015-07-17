@@ -54,6 +54,8 @@ linerate.connect({
 * change_password()
 * get_real()
 * get_reals()
+* get_vip()
+* create_vip()
 
 ---
 
