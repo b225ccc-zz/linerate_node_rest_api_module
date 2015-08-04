@@ -49,6 +49,7 @@ linerate.connect({
 * set_regkey()
 * get_activation_mode()
 * set_activation_mode()
+* get_license_info()
 * install_license()
 * create_user()
 * change_password()
